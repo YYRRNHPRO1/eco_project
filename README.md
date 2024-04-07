@@ -1,2 +1,43 @@
 bot+site+AI
-бот который отпровляет мемы и ссылку на сайт где ИИ говорит какой это мусор
+бот который отпровляет мемы и ссылку на сайт где 1)ИИ говорит какой это мусор 2)переводить видео(субтитры на рууском) 3)...
+библиотеки :
+NumPy
+SciPy
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
+TensorFlow
+Keras
+PyTorch
+XGBoost
+LightGBM
+NLTK
+SpaCy
+Gensim
+Transformers
+OpenCV
+Pillow
+Django
+Flask
+FastAPI
+SQLAlchemy
+psycopg2
+pymongo
+Pygame
+asyncio
+aiohttp
+Plotly
+Bokeh
+Requests
+BeautifulSoup
+Scrapy
+PyTest
+unittest
+Click
+Argparse
+NetworkX
+Prophet
+Statsmodels
+Cython
+PyInstaller
